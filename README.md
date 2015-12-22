@@ -1,2 +1,4 @@
 # hello-world
-Just doin first thigs n stuff
+Just doin first things n stuff
+
+Excited how this will work out...
